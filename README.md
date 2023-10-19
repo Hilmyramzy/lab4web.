@@ -50,6 +50,12 @@ Pertanyaan dan Tugas
 
 => buat single layout yang berisi deskripsi, portfolio, dll
 
+![Screenshot (224)](https://github.com/Hilmyramzy/lab4web./assets/115677769/c5a1af4d-5892-49bc-a659-9a69af3cb082)
+#HASIL RUN WEB
+![Screenshot (225)](https://github.com/Hilmyramzy/lab4web./assets/115677769/00cd8945-87fe-4653-a33c-54e2f211783c)
+
+
+
 2. Tambahkan layout untuk menu Contact
    
 => yang berisi form isian: nama, email, message, dll
