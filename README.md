@@ -28,6 +28,11 @@ home.html, dan file css dengan nama style.css.
 ![Screenshot (215)](https://github.com/Hilmyramzy/lab4web./assets/115677769/2935902f-3126-4fde-9f82-688b3d86382c)
 ![Screenshot (216)](https://github.com/Hilmyramzy/lab4web./assets/115677769/1832304e-bd16-4c94-aca5-ec30d1a2a24c)
 
+===============HASIL RUN====================================================================
+
+![Screenshot (223)](https://github.com/Hilmyramzy/lab4web./assets/115677769/476cee4e-a7a3-49fa-8c54-48d70ae360b3)
+
+
 #Style CSS =================================================================================
 
 ![Screenshot (217)](https://github.com/Hilmyramzy/lab4web./assets/115677769/d16cf397-499d-4b78-8662-31e94e61b941)
