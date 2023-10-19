@@ -60,6 +60,16 @@ Pertanyaan dan Tugas
    
 => yang berisi form isian: nama, email, message, dll
 
+![Screenshot (226)](https://github.com/Hilmyramzy/lab4web./assets/115677769/4ecbe845-409c-4162-938e-6012bba79281)
+
+#Hasil RUN 
+========Isi========
+![Screenshot (227)](https://github.com/Hilmyramzy/lab4web./assets/115677769/a4f93fa3-b7e3-4387-ab07-d9a071733492)
+![Screenshot (228)](https://github.com/Hilmyramzy/lab4web./assets/115677769/3d9ef203-b7a1-4923-b206-c3a8e3036f22)
+
+
+
+
 
 
 
